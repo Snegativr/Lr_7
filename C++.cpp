@@ -3,7 +3,7 @@
 #include "windows.h"
 using namespace std;
 int main()
-{
+{/*
 	float  y, min, max, step;
 	cout << "min=";
 	cin >> min;
@@ -18,4 +18,5 @@ int main()
 		min += step;
 
 	} while (min <= max);
+	*/
 }
